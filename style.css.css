@@ -1,0 +1,71 @@
+.section {
+			background: linear-gradient(180deg, #5C8BFF, #FFD149, #5C8BFF);
+			font-family: dancing_script;
+			border-color: #5C8BFF;
+			border-width: 2px;
+			bor
+		}
+		.butterfly_logo {
+			mix-blend-mode: multiply;
+			filter: contrast(1);
+		}
+		.logo {
+			width: 180px;
+			margin: auto;
+			text-align: center;
+			font-family: font-family: 'Dancing Script', cursive;;
+		}
+		body {
+			background: linear-gradient(45deg, #5C8BFF, #FFD149, #5C8BFF, #FFD149, #5C8BFF);
+
+		}
+		img {
+			width: 150px;
+			border-radius: 15px;
+			display: block;
+		}
+		figcaption {
+			text-align: center;
+			color: white;
+			font-size: 15px;
+			font-weight: bold;
+			display: inline-block;
+			
+			
+		}
+		.logo_name {
+			font-family: 'Dancing Script', cursive;
+			font-weight: bolder;
+			font-size: 25px;
+		}
+		a {
+			text-decoration: none;
+		}
+		
+		.fly {
+			display: inline-block;
+			display: flex;
+			margin: 2em;
+			border-radius: 15px;
+			flex-basis: 22%;
+			text-align: center;
+
+			}
+		
+		
+		.media {
+			display: flex;
+			flex-direction: row;
+			flex-wrap: wrap;
+			justify-content: center;
+			
+		}
+		.snap {
+			border-radius: 35px;
+		}
+		.footer {
+			background: linear-gradient(180deg, #5C8BFF, #FFD149, #5C8BFF);
+			text-align: center;
+			height: 30px;
+			width: 100vw;
+		}
